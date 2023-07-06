@@ -1,6 +1,6 @@
-# house-prices-pipelines
+# house-prices-pipelines 
 
-Creation of different pipelines for the Kaggle Competition
+Creation of different pipelines for the Kaggle Competition and Practice Regression Techniques
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
